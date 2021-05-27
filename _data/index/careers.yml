@@ -1,16 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Stealth Agtech Company
+  link: # none
+  date: 2021 -  <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Head of Embedded Systems
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Postmates (an Uber company)
+  link: https://www.postmates.com/
+  date: 2018 - 2021
+  job: Manager, Software Infrastucture (Serve Robot)
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: iBeat (now 100Plus)
+  link: https://www.100plus.com/
+  date: 2017 - 2018
+  job: Senior Firmware Engineer
+
+- name: Skycatch
+  link: http://www.skycatch.com/
+  date: 2013 - 2016
+  job: Director of Firmware
+
+- name: RoboteX Inc
+  link: https://robotex.com/
+  date: 2011 - 2013
+  job: Software Engineer

@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Behrooze Sirang
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: # description
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/Los_Angeles
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Behrooze Sirang
+  avatar: avatar.jpg
+  job: "Software Engineer"
+  bio: "A software engineer with a focus on robotics and embedded systems."
   email:
   disqus-shortname:
   twitter: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bsirang
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  stackoverflow: 489337/bsirang   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: bsirang
   skype: #username
   xing: #username
   instagram: #username

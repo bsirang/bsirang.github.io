@@ -1,8 +1,8 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Self-Driving Car Nanodegree (Udacity)
+  link: https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+  date: 2020 - 2020
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: California Polytechnic University - SLO
+  link: https://www.calpoly.edu/
+  date: 2006 - 2010
+  major: Computer Engineering

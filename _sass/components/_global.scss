@@ -110,6 +110,9 @@ footer {
     color: $danger;
     text-shadow: 0 0 5px $white, 0 0 10px $danger;
   }
+  position: absolute;
+  bottom: 0;
+  right: 50%;
 }
 .related-articles {
   margin-top: 2em;
