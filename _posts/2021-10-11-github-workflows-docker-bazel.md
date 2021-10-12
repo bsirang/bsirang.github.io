@@ -4,7 +4,7 @@ title: "Github Workflows With Docker and Bazel Caching"
 categories: [bazel, docker, github, workflows, actions]
 ---
 
-I recently configured set up [Github Actions](https://github.com/features/actions) for continuous integration on a couple of my projects with good results. One such project is called [trellis](https://github.com/agtonomy/trellis), which I'll discuss in a future post. With Github Actions, you can define a workflow for continuous integration, which can run on ephemeral build agents (think something like AWS lambdas).
+I recently configured [Github Actions](https://github.com/features/actions) for continuous integration on a couple of my projects with good results. One such project is called [trellis](https://github.com/agtonomy/trellis), which I'll discuss in a future post. With Github Actions, you can define a workflow for continuous integration, which can run on ephemeral build agents (think something like AWS lambdas).
 
 ## Workflows
  The workflow I created is defined in a yaml file that lives in `.github/workflows/main.yaml`, which is picked up by Github automatically.
